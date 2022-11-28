@@ -1,0 +1,85 @@
+SampleID,SampleTiming,FrailtyStatus,Age
+1125-0,pre-vaccination,non-frail,68.5
+4115-0,pre-vaccination,frail,88.1
+4053-0,pre-vaccination,frail,70.6
+1135-0,pre-vaccination,non-frail,66.6
+4025-0,pre-vaccination,frail,82.9
+0029-0,pre-vaccination,frail,73.6
+0148-0,pre-vaccination,non-frail,66.4
+0226-0,pre-vaccination,frail,77.8
+0225-0,pre-vaccination,non-frail,67.5
+4007-0,pre-vaccination,non-frail,86.8
+4162-0,pre-vaccination,frail,83.1
+4153-0,pre-vaccination,non-frail,91.2
+0258-0,pre-vaccination,non-frail,61.2
+1130-0,pre-vaccination,frail,72.7
+1116-0,pre-vaccination,non-frail,65
+4050-0,pre-vaccination,frail,71.9
+4149-0,pre-vaccination,frail,88.2
+0104-0,pre-vaccination,non-frail,62.2
+0147-0,pre-vaccination,frail,68.5
+1235-0,pre-vaccination,non-frail,72.7
+4108-0,pre-vaccination,non-frail,71.1
+3414-0,pre-vaccination,non-frail,55.5
+4026-0,pre-vaccination,frail,87.9
+4110-0,pre-vaccination,frail,89
+4163-0,pre-vaccination,frail,91.4
+0107-0,pre-vaccination,non-frail,62.9
+0316-0,pre-vaccination,non-frail,72
+4113-0,pre-vaccination,non-frail,93.2
+1125-3,3 days post-vaccination,non-frail,68.5
+4115-3,3 days post-vaccination,frail,88.1
+4053-3,3 days post-vaccination,frail,70.6
+1135-3,3 days post-vaccination,non-frail,66.6
+4025-3,3 days post-vaccination,frail,82.9
+0029-3,3 days post-vaccination,frail,73.6
+0148-3,3 days post-vaccination,non-frail,66.4
+0226-3,3 days post-vaccination,frail,77.8
+0225-3,3 days post-vaccination,non-frail,67.5
+4007-3,3 days post-vaccination,non-frail,86.8
+4162-3,3 days post-vaccination,frail,83.1
+4153-3,3 days post-vaccination,non-frail,91.2
+0258-3,3 days post-vaccination,non-frail,61.2
+1130-3,3 days post-vaccination,frail,72.7
+1116-3,3 days post-vaccination,non-frail,65
+4050-3,3 days post-vaccination,frail,71.9
+4149-3,3 days post-vaccination,frail,88.2
+0104-3,3 days post-vaccination,non-frail,62.2
+0147-3,3 days post-vaccination,frail,68.5
+1235-3,3 days post-vaccination,non-frail,72.7
+4108-3,3 days post-vaccination,non-frail,71.1
+3414-3,3 days post-vaccination,non-frail,55.5
+4026-3,3 days post-vaccination,frail,87.9
+4110-3,3 days post-vaccination,frail,89
+4163-3,3 days post-vaccination,frail,91.4
+0107-3,3 days post-vaccination,non-frail,62.9
+0316-3,3 days post-vaccination,non-frail,72
+4113-3,3 days post-vaccination,non-frail,93.2
+1125-7,7 days post-vaccination,non-frail,68.5
+4115-7,7 days post-vaccination,frail,88.1
+4053-7,7 days post-vaccination,frail,70.6
+1135-7,7 days post-vaccination,non-frail,66.6
+4025-7,7 days post-vaccination,frail,82.9
+0029-7,7 days post-vaccination,frail,73.6
+0148-7,7 days post-vaccination,non-frail,66.4
+0226-7,7 days post-vaccination,frail,77.8
+0225-7,7 days post-vaccination,non-frail,67.5
+4007-7,7 days post-vaccination,non-frail,86.8
+4162-7,7 days post-vaccination,frail,83.1
+4153-7,7 days post-vaccination,non-frail,91.2
+0258-7,7 days post-vaccination,non-frail,61.2
+1130-7,7 days post-vaccination,frail,72.7
+1116-7,7 days post-vaccination,non-frail,65
+4050-7,7 days post-vaccination,frail,71.9
+4149-7,7 days post-vaccination,frail,88.2
+0104-7,7 days post-vaccination,non-frail,62.2
+0147-7,7 days post-vaccination,frail,68.5
+1235-7,7 days post-vaccination,non-frail,72.7
+4108-7,7 days post-vaccination,non-frail,71.1
+3414-7,7 days post-vaccination,non-frail,55.5
+4026-7,7 days post-vaccination,frail,87.9
+4110-7,7 days post-vaccination,frail,89
+4163-7,7 days post-vaccination,frail,91.4
+0107-7,7 days post-vaccination,non-frail,62.9
+0316-7,7 days post-vaccination,non-frail,72
+4113-7,7 days post-vaccination,non-frail,93.2
